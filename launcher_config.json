@@ -1,5 +1,5 @@
 {
-	"clientVersion": "4.41",
+	"clientVersion": "4.42",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -8,6 +8,6 @@
 		},
 	],
 	"clientFolder": "Ultima",
-	"newClientUrl" : "https://github.com/vavasz/canary-launcher/releases/download/4.41/Ultima.zip",
+	"newClientUrl" : "https://github.com/vavasz/canary-launcher/releases/download/4.42/ultima.zip",
 	"clientExecutable": "client.exe"
 }
