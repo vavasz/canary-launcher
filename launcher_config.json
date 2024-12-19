@@ -8,6 +8,6 @@
 		},
 	],
 	"clientFolder": "Ultima",
-	"newClientUrl" : "https://github.com/vavasz/canary-launcher/releases/download/4.3/Ultima.Client.rar",
+	"newClientUrl" : "https://github.com/vavasz/canary-launcher/releases/download/4.3/Ultima.zip",
 	"clientExecutable": "client.exe"
 }
