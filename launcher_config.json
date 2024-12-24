@@ -6,6 +6,12 @@
 		{
 			"name": "assets"
 		},
+		{
+			"name": "storeimages"
+		},
+		{
+			"name": "bin"
+		}
 	],
 	"clientFolder": "Ultima",
 	"newClientUrl" : "https://github.com/vavasz/canary-launcher/releases/download/4.5/ultima.zip",
